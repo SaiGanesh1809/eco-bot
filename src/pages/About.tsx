@@ -7,9 +7,9 @@ import { cn } from '@/lib/utils';
 
 const About = () => {
   const teamMembers = [
-    { name: "Srijith Chetla", role: "Team Leader" },
+    { name: "Sai Ganesh Reddy Gudibanda", role: "Team Leader" },
     { name: "Avisa Abhiram", role: "Member" },
-    { name: "D. Sudeep Goud", role: "Member" },
+    { name: "Srijith Chetla", role: "Member" },
     { name: "P. Akshaya", role: "Member" }
   ];
 
